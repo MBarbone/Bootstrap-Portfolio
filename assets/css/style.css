@@ -1,0 +1,49 @@
+body {
+    background-image: url(http://www.1designshop.com/wp-content/uploads/2015/12/1dsp-20151221-pattern006.png);
+}
+
+
+.page-header {
+    margin-top: 175px;
+}
+
+
+.about-me-text {
+    line-height: 40px;
+    margin-bottom: 30px;
+    margin-top: 6px;
+}
+
+.col-md-3 img {
+    margin: 15px 0px;
+    border: none;
+}
+
+
+.row--container {
+    margin-top: 30px;
+}
+
+
+.white--background {
+    background-color: white;
+}
+
+
+.contact-logos img:hover {
+    transform: scale(1.5);
+}
+
+/* End of About Page & General Formatting of nav bar/footer */
+/* start of Conact Page */
+
+.form--top {
+    margin-top: 215px;
+}
+
+.form-group label {
+    font-size: 18pt;
+}
+
+/* End of Contant Page*/
+/* Start of Portfolio Page */
