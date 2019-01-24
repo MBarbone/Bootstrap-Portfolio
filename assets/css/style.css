@@ -48,6 +48,17 @@ body {
 /* End of Contant Page*/
 /* Start of Portfolio Page */
 
+.img-thumbnail:hover {
+    background-color: #286966;
+    cursor: pointer;
+    -webkit-filter: brightness(70%);
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    -ms-transition: all .5s ease;
+    transition: all .5s ease;
+}
+
 .projects--top-row {
     margin-bottom: 15px;
 }
