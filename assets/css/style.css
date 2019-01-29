@@ -34,6 +34,7 @@ body {
     transform: scale(1.5);
 }
 
+
 /* End of About Page & General Formatting of nav bar/footer */
 /* start of Conact Page */
 
@@ -61,4 +62,8 @@ body {
 
 .projects--top-row {
     margin-bottom: 15px;
+}
+
+.body-container {
+    margin-bottom: 100px;
 }
